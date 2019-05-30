@@ -1,0 +1,153 @@
+body{
+	background-image: url('vote.jpg');
+	background-size: cover;
+}
+
+
+.darkbg{
+	background: yellow;
+	color: black;
+}
+.darkerbg{
+	background: black;
+	color: white;
+}
+.darkestbg{
+	background: green;
+	color: black;
+}
+.hw{
+	position: relative;
+	padding: 3px;
+	background: #66ff33;
+	font-style: italic;
+	margin: 0;
+}
+.rishabh{
+	background: black;
+	padding: 10px;
+}
+.row{
+	background: brown;
+	padding: 10px;
+	margin: 10px;
+	border-radius: 5px;
+}
+.hw .jw .btn{
+	position: relative;
+	left: 90px;
+	padding: 2px;
+	width: 20%;
+	margin: 0%;
+	
+}
+.myPanel{
+	border: 1px solid brown;
+	border-radius: 5px;
+	margin: 3%;
+	box-shadow: 4px 4px 4px black;
+	position: relative;
+	top: 100px;
+	
+}
+.myPanel .heading{
+	background: #99ff33;
+	border-radius: 5px;
+	color: blue;
+	padding: 10px;
+	font-style: bold;
+	font-size: 18;
+}
+.myPanel .body{
+	background: white;
+	border-radius: 5px;
+	font-style: italic;
+	color: black;
+	padding: 15px;
+}
+.myPanel .showOnHover{
+	display: none;
+}
+.myPanel:hover .showOnHover{
+	display: inline;
+}
+.showOnHover .btn {
+	font-size: 2;
+	border-radius: 5px;
+
+}
+
+
+.Year{
+	position: relative;
+	left: 100px;
+	list-style: none;
+	color: black;
+	font-style: italic;
+}
+.para{
+	border: 2px solid green;
+	border-spacing: 1%;
+}
+.h{
+	background: #4000ff;
+	color: black;
+	padding: 5px;
+	font-size: 10px;
+	display: none;
+}
+.hh{
+	color: yellow;
+	font-style: italic;;
+}
+.con{
+	background-size: 0;
+}
+.gg{
+	position: relative;
+	right: 35px;
+	color: yellow;
+}
+.tab{
+	background-color:white;
+}
+.rule
+{
+	color: blue;
+	background-color: pink;
+	padding: 10px;
+	border-radius: 8px;
+}
+.rule1{
+	background-color:#999;
+
+}
+.rulehead{
+	padding: 10px;
+	background-color: yellow;
+	margin: 0px;
+	border-radius: 10px;
+}
+.fooot
+{
+	position: relative;
+	top: 100px;
+}
+.taa{
+	color:  #1a66ff;
+}
+.Jamia{
+	position: relative;
+	background-color: brown;
+	left: 440px;
+	padding: 10px;
+}
+.apart{
+	color: yellow;
+	position: relative;
+	left: 200px;
+}
+.detail{
+	color: black;
+	font-style: italic;
+}
